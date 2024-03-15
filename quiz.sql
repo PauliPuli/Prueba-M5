@@ -88,7 +88,7 @@ delete from usuarios where id = 5;
 -- 9. Crea una restricción que impida insertar usuarios menores de 18 años en la base de datos.
 
 alter table usuarios add check (edad >=18);
-delete from usuarios where edad <=18;
+delete from usuarios where edad <18;
 
 insert into Usuarios values 
 (6, 'Marta', 30);
