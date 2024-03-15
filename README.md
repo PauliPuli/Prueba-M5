@@ -7,7 +7,7 @@
 <img src='https://github.com/PauliPuli/Prueba-M5/assets/156126623/9c997b32-3677-42d0-af39-1aee86f06551'>
 <figcaption>Tabla película</figcaption>
 <hr>
-<img src='(https://github.com/PauliPuli/Prueba-M5/assets/156126623/dbfaddb2-ca6e-4291-96ed-f1fca46a47a9'>
+<img src=(https://github.com/PauliPuli/Prueba-M5/assets/156126623/dbfaddb2-ca6e-4291-96ed-f1fca46a47a9'>
 <figcaption>Tabla Tag</figcaption>
 <hr>
 <img src='https://github.com/PauliPuli/Prueba-M5/assets/156126623/2b82bfeb-1fed-4f61-9207-13d53851ef47'>
