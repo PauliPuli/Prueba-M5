@@ -3,10 +3,9 @@
 <h2>Requerimientos <a href='https://github.com/PauliPuli/Prueba-M5/blob/main/peliculas.sql'>1 al 3</a></h2>
 <img src= 'https://github.com/PauliPuli/Prueba-M5/assets/156126623/056122c7-ee82-4ec0-a6b6-1df220488140'>
 <figcaption>Modelo de tabla relacional. Para resolver el desafío fue necesario desnormalizar, es decir, agregar redundancia.</figcaption>
-
+<hr>
 <img src='https://github.com/PauliPuli/Prueba-M5/assets/156126623/9c997b32-3677-42d0-af39-1aee86f06551'>
 <figcaption>Tabla película</figcaption>
-
 <hr>
 <img src='(https://github.com/PauliPuli/Prueba-M5/assets/156126623/dbfaddb2-ca6e-4291-96ed-f1fca46a47a9'>
 <figcaption>Tabla Tag</figcaption>
